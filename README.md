@@ -7,5 +7,8 @@ Telegram:
 [@InoCity](https://t.me/inocity)
 [@MotoG34](https://t.me/MotoG34)
 
+Telegram channel:
+[HellifyUI](https://t.me/HellifyUI)
+
 Discord:
 @inocity
