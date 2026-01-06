@@ -1,19 +1,29 @@
 # HellifyUI
 
-## **A pack of fonts, icons, animations, extra features and other goodies to make your PandaDroid interface as smooth and playful as a panda 🐼🖌️✨**
+> **UI Enhancement Pack for Pixel-based ROMs**
 
-## Support
-Telegram:
-[@InoCity](https://t.me/inocity)
+HellifyUI é um pacote de personalização focado em elevar a experiência visual de **ROMs Pixel-based**, combinando estética moderna, fluidez e consistência visual, sem sacrificar desempenho ou estabilidade.
 
-Telegram channel:
-[HellifyUI](https://t.me/HellifyUI)
+---
 
-Discord:
-@inocity
+## ✨ Features
+- **Fontes refinadas** para melhor leitura e identidade visual  
+- **Ícones personalizados** com estilo uniforme  
+- **Animações suaves** e bem balanceadas  
+- **Ajustes visuais e funcionais** cuidadosamente selecionados  
 
-## 4.0
-<img src="HellifyUi2.png">
+---
 
-## 3.0
-<img src="HellifyUI.png">
+## 🎯 Objective
+Proporcionar uma interface mais elegante e fluida, respeitando o design Pixel e mantendo o sistema estável e responsivo no uso diário.
+
+---
+
+## 📝 Notes
+- Desenvolvido para **ROMs baseadas em Pixel**  
+- Nenhuma modificação em componentes críticos do sistema  
+- Foco total em **estabilidade**, **fluidez** e **experiência do usuário**
+
+---
+
+**HellifyUI** busca um equilíbrio entre simplicidade, elegância e desempenho.
