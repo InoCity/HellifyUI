@@ -1,3 +1,18 @@
+# Archived
+
+HellifyUI has officially been archived.
+
+In reality, this repository should have been archived a long time ago. I simply forgot to do it, so it's only being archived now.
+
+This project is no longer maintained and will not receive updates, bug fixes, or support. The repository will remain public as an archive and for anyone interested in looking through the source code or using it as a reference.
+
+Even though it's been a long time since anyone actively used the project, I'd still like to thank everyone who downloaded, tried, starred, or supported HellifyUI while it was active. I truly appreciate it.
+
+Thank you for the support over the years.
+
+— InoCity
+
+
 # HellifyUI
 
 > **UI Enhancement Pack for Pixel-based ROMs**
